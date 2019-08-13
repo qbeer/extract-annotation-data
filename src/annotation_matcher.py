@@ -328,22 +328,22 @@ def acquire_annotations(json_annotation_path=os.getcwd() +
             try:
                 karolinska_name = id_to_karolinska[image_id]
             except KeyError:
-                print('KeyErrror : ', image_id)
+                print('\nKeyErrror : ', image_id, '\n')
                 continue
             elte_name = karolinska_to_elte[karolinska_name]
             polygons = annotation_id_to_polygon[annotation_id]
             term_ids = annotation_id_to_term_ids[annotation_id]
             if len(polygons) > 0 and len(term_ids) == 0:
-                print('# of terms should not be zero if polygons are present!')
+                print('\n# of terms should not be zero if polygons are present!')
                 print(karolinska_name, elte_name, annotation_id, len(polygons),
-                      len(term_ids))
+                      len(term_ids), '\n')
                 continue
             labels = [term_id_to_label[t_id] for t_id in term_ids]
             if len(labels) < len(polygons) and len(labels) == 1:
                 labels = [labels[0]] * len(polygons)
             if len(polygons) < len(labels) and len(polygons) == 1:
                 polygons = [polygons[0]] * len(labels)
-                print(elte_name, " has multi-labeled polygon with labels ", labels)
+                print('\n', elte_name, ' has multi-labeled polygon with labels ', labels, '\n')
             for lab in labels:
                 polygon_metadata[lab] = []
             for ind, lab in enumerate(labels):

@@ -1,3 +1,4 @@
 src/data/*.json
 src/data/*.dat
 annotations.json
+src/__pycache__/

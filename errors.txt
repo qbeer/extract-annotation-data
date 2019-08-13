@@ -1,198 +1,430 @@
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_098 16491_17_10_HE 260816 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_098 16491_17_10_HE 260809 1 0
-18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc']
-18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc']
-18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc']
-18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc']
-11967_17_11_HE  has multi-labeled polygon with labels  ['necrosis', 'crc']
-11967_17_11_HE  has multi-labeled polygon with labels  ['lymphocytes', 'crc']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_084 11967_17_14_HE 846457 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_079 11591_17_23_HE 809033 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_074 11228_17_11_HE 376254 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_074 11228_17_11_HE 376199 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_074 11228_17_11_HE 375536 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_074 11228_17_11_HE 374994 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_074 11228_17_11_HE 374931 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_074 11228_17_11_HE 374391 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_073 10791_17_17_HE 830192 1 0
-10791_17_17_HE  has multi-labeled polygon with labels  ['tumor fibrosis', 'fibrosis']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_073 10791_17_17_HE 365149 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_038 12871_16_13_HE 1173938 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_038 12871_16_13_HE 1173914 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_038 12871_16_13_HE 1173904 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_038 12871_16_13_HE 1173896 1 0
-12871_16_13_HE  has multi-labeled polygon with labels  ['capsule', 'capillary']
-12871_16_13_HE  has multi-labeled polygon with labels  ['capsule', 'capillary']
-11492_17_17_HE  has multi-labeled polygon with labels  ['erythrocites', 'lymphocytes']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_024 10947_16_11_HE 1717318 1 0
-10947_16_11_HE  has multi-labeled polygon with labels  ['necrosis', 'lymphocytes']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_106 19479_17_11_HE 218356 1 0
-2142_18_10_HE  has multi-labeled polygon with labels  ['capsule', 'adypocites']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_081 11727_17_10_HE 921218 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_081 11727_17_10_HE 837511 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_081 11727_17_10_HE 837499 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_081 11727_17_10_HE 837491 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_081 11727_17_10_HE 837071 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_085 11967_17_23_HE 844923 2 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_085 11967_17_23_HE 844447 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_085 11967_17_23_HE 844435 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_085 11967_17_23_HE 844425 1 0
-11967_17_23_HE  has multi-labeled polygon with labels  ['erythrocites', 'fibrosis']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_049 14016_16_11_HE 1185781 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_049 14016_16_11_HE 1185761 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_049 14016_16_11_HE 1185753 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_102 18269_17_11_HE 4557036 1 0
-10873_18_9_HE  has multi-labeled polygon with labels  ['erythrocites', 'capsule']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_012 09483_16_I_09_HE 1327131 1 0
-16491_17_12_HE  has multi-labeled polygon with labels  ['mucin', 'fibrosis']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_076 11492_17_15_HE 795438 1 0
-11591_17_22_HE  has multi-labeled polygon with labels  ['crc', 'adypocites']
-11591_17_22_HE  has multi-labeled polygon with labels  ['necrosis', 'lymphocytes']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_078 11591_17_22_HE 774286 1 0
-02667_18_14_HE  has multi-labeled polygon with labels  ['capsule', 'lymphocytes']
-02667_18_14_HE  has multi-labeled polygon with labels  ['capsule', 'lymphocytes']
-02667_18_14_HE  has multi-labeled polygon with labels  ['capsule', 'lymphocytes']
-19044_17_I_11_HE  has multi-labeled polygon with labels  ['blood', 'tumor fibrosis']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_010 09224_16_13_HE 1770022 3 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_010 09224_16_13_HE 1770014 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_008 09224_16_09_HE 1818334 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_042 13612_16_10_HE 1764136 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_043 13805_16_11_HE 1756984 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_005 08965_16_09_HE 1728028 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_025 10996_16_10_HE 1723542 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_025 10996_16_10_HE 1723525 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_27 4717_18_I_16_HE 1469705 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_33 6769_18_11_HE 1456639 2 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_32 6769_18_10_HE 1454320 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_011 09436_16_9_HE 1324730 5 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1313001 2 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1312975 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1312947 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1312933 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1312913 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1312887 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1312867 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1312839 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1306998 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1306951 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1306374 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_036 05498_17_9_HE 1306356 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_033 11654_16_14_HE 1264254 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2016_032 11654_16_12_HE 1260856 1 0
-06408_17_9_HE  has multi-labeled polygon with labels  ['necrosis', 'tumor fibrosis']
-06408_17_9_HE  has multi-labeled polygon with labels  ['erythrocites', 'necrosis']
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_35 6928_18_13_HE 1210452 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_35 6928_18_13_HE 1210444 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_35 6928_18_13_HE 1210434 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_35 6928_18_13_HE 1210426 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_35 6928_18_13_HE 1210416 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_35 6928_18_13_HE 1210133 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_35 6928_18_13_HE 1210125 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_057 8398_17_11_HE 794501 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_057 8398_17_11_HE 794190 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_057 8398_17_11_HE 793996 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_018 03023_17_I_9_HE 970061 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_02 276_18_18_HE 891267 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_02 276_18_18_HE 889774 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_01 86_18_II_18_HE 737450 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_01 86_18_II_18_HE 737438 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_19 3051_18_I_12 748562 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2018_19 3051_18_I_12 741333 2 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_005 02286_17_8 255459 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_005 02286_17_8 255437 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_103 18269_17_13_HE 233675 1 0
-# of terms should not be zero if polygons are present!
-CRC_LN_SU_2017_103 18269_17_13_HE 230867 1 0
-19479_17_12_HE  has multi-labeled polygon with labels  ['fibrosis', 'smooth muscle']
-KeyErrror :  30937
-KeyErrror :  30937
-KeyErrror :  30937
-KeyErrror :  30937
-KeyErrror :  30937
-KeyErrror :  30937
-KeyErrror :  30937
-KeyErrror :  29363
-KeyErrror :  29363
-KeyErrror :  29363
-KeyErrror :  28601
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_098 16491_17_10_HE 260816 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_098 16491_17_10_HE 260809 1 0 
+
+
+ 18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc'] 
+
+
+ 18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc'] 
+
+
+ 18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc'] 
+
+
+ 18177_17_II_6_HE  has multi-labeled polygon with labels  ['mucin', 'crc'] 
+
+
+ 11967_17_11_HE  has multi-labeled polygon with labels  ['necrosis', 'crc'] 
+
+
+ 11967_17_11_HE  has multi-labeled polygon with labels  ['lymphocytes', 'crc'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_084 11967_17_14_HE 846457 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_079 11591_17_23_HE 809033 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_074 11228_17_11_HE 376254 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_074 11228_17_11_HE 376199 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_074 11228_17_11_HE 375536 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_074 11228_17_11_HE 374994 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_074 11228_17_11_HE 374931 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_074 11228_17_11_HE 374391 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_073 10791_17_17_HE 830192 1 0 
+
+
+ 10791_17_17_HE  has multi-labeled polygon with labels  ['tumor fibrosis', 'fibrosis'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_073 10791_17_17_HE 365149 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_038 12871_16_13_HE 1173938 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_038 12871_16_13_HE 1173914 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_038 12871_16_13_HE 1173904 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_038 12871_16_13_HE 1173896 1 0 
+
+
+ 12871_16_13_HE  has multi-labeled polygon with labels  ['capsule', 'capillary'] 
+
+
+ 12871_16_13_HE  has multi-labeled polygon with labels  ['capsule', 'capillary'] 
+
+
+ 11492_17_17_HE  has multi-labeled polygon with labels  ['erythrocites', 'lymphocytes'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_024 10947_16_11_HE 1717318 1 0 
+
+
+ 10947_16_11_HE  has multi-labeled polygon with labels  ['necrosis', 'lymphocytes'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_106 19479_17_11_HE 218356 1 0 
+
+
+ 2142_18_10_HE  has multi-labeled polygon with labels  ['capsule', 'adypocites'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_081 11727_17_10_HE 921218 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_081 11727_17_10_HE 837511 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_081 11727_17_10_HE 837499 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_081 11727_17_10_HE 837491 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_081 11727_17_10_HE 837071 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_085 11967_17_23_HE 844923 2 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_085 11967_17_23_HE 844447 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_085 11967_17_23_HE 844435 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_085 11967_17_23_HE 844425 1 0 
+
+
+ 11967_17_23_HE  has multi-labeled polygon with labels  ['erythrocites', 'fibrosis'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_049 14016_16_11_HE 1185781 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_049 14016_16_11_HE 1185761 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_049 14016_16_11_HE 1185753 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_102 18269_17_11_HE 4557036 1 0 
+
+
+ 10873_18_9_HE  has multi-labeled polygon with labels  ['erythrocites', 'capsule'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_012 09483_16_I_09_HE 1327131 1 0 
+
+
+ 16491_17_12_HE  has multi-labeled polygon with labels  ['mucin', 'fibrosis'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_076 11492_17_15_HE 795438 1 0 
+
+
+ 11591_17_22_HE  has multi-labeled polygon with labels  ['crc', 'adypocites'] 
+
+
+ 11591_17_22_HE  has multi-labeled polygon with labels  ['necrosis', 'lymphocytes'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_078 11591_17_22_HE 774286 1 0 
+
+
+ 02667_18_14_HE  has multi-labeled polygon with labels  ['capsule', 'lymphocytes'] 
+
+
+ 02667_18_14_HE  has multi-labeled polygon with labels  ['capsule', 'lymphocytes'] 
+
+
+ 02667_18_14_HE  has multi-labeled polygon with labels  ['capsule', 'lymphocytes'] 
+
+
+ 19044_17_I_11_HE  has multi-labeled polygon with labels  ['blood', 'tumor fibrosis'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_010 09224_16_13_HE 1770022 3 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_010 09224_16_13_HE 1770014 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_008 09224_16_09_HE 1818334 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_042 13612_16_10_HE 1764136 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_043 13805_16_11_HE 1756984 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_005 08965_16_09_HE 1728028 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_025 10996_16_10_HE 1723542 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_025 10996_16_10_HE 1723525 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_27 4717_18_I_16_HE 1469705 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_33 6769_18_11_HE 1456639 2 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_32 6769_18_10_HE 1454320 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_011 09436_16_9_HE 1324730 5 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1313001 2 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1312975 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1312947 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1312933 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1312913 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1312887 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1312867 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1312839 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1306998 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1306951 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1306374 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_036 05498_17_9_HE 1306356 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_033 11654_16_14_HE 1264254 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2016_032 11654_16_12_HE 1260856 1 0 
+
+
+ 06408_17_9_HE  has multi-labeled polygon with labels  ['necrosis', 'tumor fibrosis'] 
+
+
+ 06408_17_9_HE  has multi-labeled polygon with labels  ['erythrocites', 'necrosis'] 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_35 6928_18_13_HE 1210452 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_35 6928_18_13_HE 1210444 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_35 6928_18_13_HE 1210434 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_35 6928_18_13_HE 1210426 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_35 6928_18_13_HE 1210416 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_35 6928_18_13_HE 1210133 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_35 6928_18_13_HE 1210125 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_057 8398_17_11_HE 794501 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_057 8398_17_11_HE 794190 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_057 8398_17_11_HE 793996 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_018 03023_17_I_9_HE 970061 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_02 276_18_18_HE 891267 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_02 276_18_18_HE 889774 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_01 86_18_II_18_HE 737450 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_01 86_18_II_18_HE 737438 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_19 3051_18_I_12 748562 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2018_19 3051_18_I_12 741333 2 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_005 02286_17_8 255459 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_005 02286_17_8 255437 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_103 18269_17_13_HE 233675 1 0 
+
+
+# of terms should not be zero if polygons are present!
+CRC_LN_SU_2017_103 18269_17_13_HE 230867 1 0 
+
+
+ 19479_17_12_HE  has multi-labeled polygon with labels  ['fibrosis', 'smooth muscle'] 
+
+
+KeyErrror :  30937 
+
+
+KeyErrror :  30937 
+
+
+KeyErrror :  30937 
+
+
+KeyErrror :  30937 
+
+
+KeyErrror :  30937 
+
+
+KeyErrror :  30937 
+
+
+KeyErrror :  30937 
+
+
+KeyErrror :  29363 
+
+
+KeyErrror :  29363 
+
+
+KeyErrror :  29363 
+
+
+KeyErrror :  28601 
+
 Written to file!
