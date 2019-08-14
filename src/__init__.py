@@ -1,2 +1,2 @@
-from .annotation_matcher import acquire_image_ids, acquire_annotations
+from .annotation_matcher import acquire_annotations
 from .annotation_to_masks import make_masks

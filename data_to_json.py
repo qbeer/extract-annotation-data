@@ -1,4 +1,4 @@
-from src import acquire_image_ids, acquire_annotations
+from src import acquire_annotations
 import json
 
 elte_id_with_polygon_data = acquire_annotations()

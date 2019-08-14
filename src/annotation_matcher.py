@@ -214,10 +214,11 @@ karolinska_to_elte = {
 }
 
 
-def acquire_image_ids(image_metadata_path=os.getcwd() +
+def acquire_image_metadata(image_metadata_path=os.getcwd() +
                       '/src/data/images.json'):
 
     id_to_karolinska = dict()
+    id_to_dimensions = dict()
 
     with open(image_metadata_path, 'r') as read_file:
         images_metadata = json.load(read_file)
@@ -225,8 +226,9 @@ def acquire_image_ids(image_metadata_path=os.getcwd() +
         ID = int(metadata['id'])
         karolinska_name = metadata['filename'].split('/')[-1]
         id_to_karolinska[ID] = karolinska_name.replace('.mrxs', '')
+        id_to_dimensions[ID] = {"width" : metadata["width"], "height" : metadata["height"]}
 
-    return id_to_karolinska
+    return id_to_karolinska, id_to_dimensions
 
 
 def acquire_annotation_ids(annotation_path=os.getcwd() +
@@ -250,7 +252,6 @@ def acquire_annotation_ids(annotation_path=os.getcwd() +
             image_id_to_annotations_ids[image_id].append(annotation_id)
 
     return image_id_to_annotations_ids
-
 
 def acquire_annotation_polygons(json_annotation_path=os.getcwd() +
                                 '/src/data/user-annotation-collection.json'):
@@ -317,7 +318,10 @@ def acquire_annotation_id_to_term_id(
 def acquire_annotations(json_annotation_path=os.getcwd() +
                         '/src/data/user-annotation-collection.json'):
 
-    id_to_karolinska = acquire_image_ids()
+    id_to_karolinska, id_to_dimensions = acquire_image_metadata()
+
+    elte_to_karolinska = {v: k for k, v in karolinska_to_elte.items()}
+
     image_id_to_annotation_ids = acquire_annotation_ids()
     term_id_to_label = acquire_terms()
 
@@ -328,6 +332,17 @@ def acquire_annotations(json_annotation_path=os.getcwd() +
 
     for elte_name in karolinska_to_elte.values():
         elte_with_polygon_meta_data[elte_name] = dict()
+        elte_with_polygon_meta_data[elte_name]["polygons"] = dict()
+        elte_with_polygon_meta_data[elte_name]["width"] = 0.
+        elte_with_polygon_meta_data[elte_name]["height"] = 0.
+
+    for ID in id_to_karolinska.keys():
+        karolinska_name = id_to_karolinska[ID]
+        elte_name = karolinska_to_elte[karolinska_name]
+        width = id_to_dimensions[ID]["width"]
+        height = id_to_dimensions[ID]["height"]
+        elte_with_polygon_meta_data[elte_name]["width"] = width
+        elte_with_polygon_meta_data[elte_name]["height"] = height
 
     for image_id in image_id_to_annotation_ids.keys():
         polygon_metadata = dict()
@@ -360,7 +375,7 @@ def acquire_annotations(json_annotation_path=os.getcwd() +
         try:
             karolinska_name = id_to_karolinska[image_id]
             elte_name = karolinska_to_elte[karolinska_name]
-            elte_with_polygon_meta_data[elte_name] = polygon_metadata
+            elte_with_polygon_meta_data[elte_name]["polygons"] = polygon_metadata
         except KeyError:
             continue
 

@@ -11,13 +11,13 @@ def make_masks():
 
     for image_id in annotations:
         print("Processing : ", image_id)
-        for label in annotations[image_id].keys():
-            polygons = annotations[image_id][label]
+        for label in annotations[image_id]["polygons"].keys():
+            polygons = annotations[image_id]["polygons"][label]
             for polygon in polygons:
                 filename = image_id + "_" + label + "_("
                 polygon = np.array(polygon)
-                x_coords = polygon[::2]
-                y_coords = polygon[1::2]
+                x_coords = np.array(polygon[0::2])
+                y_coords = annotations[image_id]["height"] - np.array(polygon[1::2])
                 min_x, max_x = np.min(x_coords), np.max(x_coords)
                 min_y, max_y = np.min(y_coords), np.max(y_coords)
                 width = max_x - min_x
@@ -38,7 +38,7 @@ def make_masks():
                         round(height // downsampling_factor))
                 ds_polygon = polygon
                 ds_polygon[::2] = ds_polygon[::2] - min_x
-                ds_polygon[1::2] = ds_polygon[1::2] - min_y
+                ds_polygon[1::2] = annotations[image_id]["height"] - ds_polygon[1::2] - min_y
                 ds_polygon = np.array(ds_polygon // downsampling_factor,
                                       dtype=int)
                 img = Image.new('L', (ds_width, ds_height))
