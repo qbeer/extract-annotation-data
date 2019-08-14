@@ -2,3 +2,5 @@ src/data/*.json
 src/data/*.dat
 annotations.json
 src/__pycache__/
+exported_images/*
+Pipfile.lock

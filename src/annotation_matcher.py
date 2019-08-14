@@ -263,22 +263,28 @@ def acquire_annotation_polygons(json_annotation_path=os.getcwd() +
     for annotation in annotations_data:
         ID = int(annotation['id'])
         if 'MULTIPOLYGON' not in annotation['location']:
-            polygon = annotation['location'].replace('POLYGON ((',
-                                                     '').replace('))',
-                                                                 '').replace(',', '').split(' ')
+            polygon = annotation['location'].replace('POLYGON ((', '').replace(
+                '))', '').replace(',', '').replace(')',
+                                                   '').replace('(',
+                                                               '').split(' ')
+            polygon = list(map(round, map(float, polygon)))
             annotation_id_to_polygon[ID] = [polygon]
         else:
             polygons_ = annotation['location'].replace('MULTIPOLYGON (((',
                                                        '').split(')), ((')
             polygons = []
             for ind, polygon in enumerate(polygons_):
-                polygon = polygon.replace(')))', '').replace(')', '').replace('(', '').replace(',', '').split(' ')
+                polygon = polygon.replace(')))', '').replace(')', '').replace(
+                    '(', '').replace(',', '').split(' ')
+                polygon = list(map(round, map(float, polygon)))
                 polygons.append(polygon)
             annotation_id_to_polygon[ID] = polygons
 
     return annotation_id_to_polygon
 
-def acquire_terms(json_term_path=os.getcwd() + '/src/data/term-collection.json'):
+
+def acquire_terms(json_term_path=os.getcwd() +
+                  '/src/data/term-collection.json'):
 
     term_id_to_label = dict()
 
@@ -292,8 +298,9 @@ def acquire_terms(json_term_path=os.getcwd() + '/src/data/term-collection.json')
     return term_id_to_label
 
 
-def acquire_annotation_id_to_term_id(json_annotation_path=os.getcwd() +
-                        '/src/data/user-annotation-collection.json'):
+def acquire_annotation_id_to_term_id(
+        json_annotation_path=os.getcwd() +
+        '/src/data/user-annotation-collection.json'):
 
     annotation_id_to_terms = dict()
 
@@ -320,7 +327,7 @@ def acquire_annotations(json_annotation_path=os.getcwd() +
     elte_with_polygon_meta_data = dict()
 
     for elte_name in karolinska_to_elte.values():
-        elte_with_polygon_meta_data[elte_name] = []
+        elte_with_polygon_meta_data[elte_name] = dict()
 
     for image_id in image_id_to_annotation_ids.keys():
         polygon_metadata = dict()
@@ -334,7 +341,8 @@ def acquire_annotations(json_annotation_path=os.getcwd() +
             polygons = annotation_id_to_polygon[annotation_id]
             term_ids = annotation_id_to_term_ids[annotation_id]
             if len(polygons) > 0 and len(term_ids) == 0:
-                print('\n# of terms should not be zero if polygons are present!')
+                print(
+                    '\n# of terms should not be zero if polygons are present!')
                 print(karolinska_name, elte_name, annotation_id, len(polygons),
                       len(term_ids), '\n')
                 continue
@@ -343,7 +351,8 @@ def acquire_annotations(json_annotation_path=os.getcwd() +
                 labels = [labels[0]] * len(polygons)
             if len(polygons) < len(labels) and len(polygons) == 1:
                 polygons = [polygons[0]] * len(labels)
-                print('\n', elte_name, ' has multi-labeled polygon with labels ', labels, '\n')
+                print('\n', elte_name,
+                      ' has multi-labeled polygon with labels ', labels, '\n')
             for lab in labels:
                 polygon_metadata[lab] = []
             for ind, lab in enumerate(labels):
